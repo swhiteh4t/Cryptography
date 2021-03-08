@@ -1,0 +1,1 @@
+I have used the python kernel instead of Sage in jupyter and both files are the same. One is a jupyter file and the other just a python script.
