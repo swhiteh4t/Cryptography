@@ -7,8 +7,8 @@ The implemented are the following:
   - Diffie-Hellman key exchange with DLP brute-force attack
   - AES encryption
   - Elliptic Curves:
-        - Operation on Elliptic curves (addtion, multiplication, substration...)
-        - Enconding and Decoding on Elliptic Curves.
-        - El Gamal Encryption and Decryption on Elliptic Curves.
+  - Operation on Elliptic curves (addtion, multiplication, substration...)
+  - Enconding and Decoding on Elliptic Curves.
+  - El Gamal Encryption and Decryption on Elliptic Curves.
 
 Test cases are included for each function to prove that works as expected.
