@@ -6,7 +6,7 @@ The implemented are the following:
   - RSA
   - Diffie-Hellman key exchange with DLP brute-force attack
   - AES encryption
-  - Elliptic Curves
+  - Elliptic Curves:
         - Operation on Elliptic curves (addtion, multiplication, substration...)
         - Enconding and Decoding on Elliptic Curves.
         - El Gamal Encryption and Decryption on Elliptic Curves.
